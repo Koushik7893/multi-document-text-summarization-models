@@ -36,7 +36,7 @@ multi-document-summarization-models/
 ## 💻 Run Locally
 
 ```bash
-git clone https://github.com/Koushim/multi-document-summarization-models.git
+git clone https://github.com/Koushim/multi-document-text-summarization-models.git
 cd multi-document-summarization-models
 pip install -r requirements.txt
 ````
